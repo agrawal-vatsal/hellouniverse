@@ -12,7 +12,7 @@ def print_hi(name):
     print("Final is here")
     print("Yo Yo 2")
     print("Firse Yo Yo")
-    print("Dunia hugs")
+    print("Dunia is madarchod")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
