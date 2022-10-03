@@ -9,6 +9,7 @@ def print_hi(name):
     print(f'Hi, world. I am {name}')  # Press Ctrl+Shift+B to toggle the breakpoint.
     print("Yo yo")
     print("Yo Yo 2")
+    print("Firse Yo Yo")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
