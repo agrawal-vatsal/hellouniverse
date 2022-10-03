@@ -8,6 +8,7 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, world. I am {name}')  # Press Ctrl+Shift+B to toggle the breakpoint.
     print("Yo yo")
+    print("Yo Yo 2")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
