@@ -10,6 +10,8 @@ def print_hi(name):
     print("Yo yo")
     print("Yo Yo 1")
     print("Final is here")
+    print("Yo Yo 2")
+    print("Firse Yo Yo")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
